@@ -1,11 +1,3 @@
-tuple1=(50,100,150,170,200)
-print(tuple1)
-print(len(tuple1))
-tuple2=(4,6,3,2,8,3,1,9)
-tuple2=tuple2+(5,7,9)
-print(tuple2)
-print(tuple1.count(3))
-slice=tuple1[3:5]
-print(slice)
-slice=tuple1[:6]
-print(slice)
+sa=1
+rah=2
+print("sa"+"rah")
